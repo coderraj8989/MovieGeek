@@ -1,4 +1,4 @@
-# Tasks
+# MovieGeek
 
 A React.js app that fetches over 30,000+  most popular  movies for you. It allows the users to browse, search and get details of the each available movie.
 
