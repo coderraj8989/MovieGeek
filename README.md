@@ -17,8 +17,11 @@ The *__Tasks__ app* has the following functionalities :
 
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/77974149/174468096-4f7b0b67-b91e-4adb-9bec-24986c3208da.png)
-![image](https://user-images.githubusercontent.com/77974149/174468107-624a1fc4-c84c-4bb2-8a01-cd0928842e70.png)
+![image](https://user-images.githubusercontent.com/77974149/175801293-783020fe-f304-4943-a55b-a2e8f8c21bff.png)
+![image](https://user-images.githubusercontent.com/77974149/175801304-e5163b31-faf6-470f-bbbd-fa333adda672.png)
+![image](https://user-images.githubusercontent.com/77974149/175801311-8831f45a-74d5-46a4-a413-2d782078708e.png)
+![image](https://user-images.githubusercontent.com/77974149/175801319-35ceed4e-4e19-4897-9d62-accb91a0c079.png)
+
 
 
 ## Tech Stack
