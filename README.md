@@ -2,18 +2,18 @@
 
 A React.js app that fetches over 30,000+  most popular  movies for you. It allows the users to browse, search and get details of the each available movie.
 
-The *__Tasks__ app* has the following functionalities :
+The *__Movie__ app* has the following functionalities :
 * *Browse over the most popular movies.*
 * *Search for your favourite movies.*
 * *Get Details of your favourite movie by just clicking on the movie card.*
-* made it fully responsive for medium and small screens using Tailwind CSS.
+* *Made it fully responsive for medium and small screens using Tailwind CSS.*
 
 ## Authors
 
 - [@coderraj8989](https://www.github.com/coderraj8989)
 
 ## __Check it out__
-- https://tasks-ritikraj.netlify.app/
+- https://moviegeek-ritikraj.netlify.app/
 
 ## Screenshots
 
