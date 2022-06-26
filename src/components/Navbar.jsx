@@ -19,7 +19,7 @@ const Navbar = ({ search, setSearch, setSearchResult, updateMovieList }) => {
     }
 
     const backToHome = async () => {
-        let url = `https://api.themoviedb.org/3/movie/popular?api_key=0ac744b371eb333af847f3f201fda626&language=en-US&page=1`;
+        let url = `https://api.themoviedb.org/3/movie/popular?api_key=${process.env.REACT_APP_API_KEY}&language=en-US&page=1`;
         let res = await fetch(url);
         let data = await res.json();
         updateMovieList(data.results);
