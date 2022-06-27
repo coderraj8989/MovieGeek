@@ -39,7 +39,9 @@ const Navbar = ({ search, setSearch, setSearchResult, updateMovieList }) => {
                 <h2 className="text-5xl font-bold pl-8 md:pl-14 pt-12">Welcome.</h2>
                 <h3 className="text-2xl font-semibold pl-8 md:pl-14 pt-2">Millions of movies to discover. Explore now.</h3>
                 <input className="w-[15em] md:w-[68em] ml-8 md:ml-14 mt-8 md:mt-12 px-4 py-3 rounded-l-full text-black outline-none shadow-2xl shadow-black" type="text" placeholder="Search for a movie......" value={search} onChange={handleChange} />
-                <button className="w-[6em] md:w-[9em] px-4 py-3 rounded-r-full bg-[#032541] shadow-2xl shadow-black" onClick={() => handleClick(search)}>Search</button>
+                <Link to="/">
+                    <button className="w-[6em] md:w-[9em] px-4 py-3 rounded-r-full bg-[#032541] shadow-2xl shadow-black" onClick={() => handleClick(search)}>Search</button>
+                </Link>
             </div>
         </nav>
     )
