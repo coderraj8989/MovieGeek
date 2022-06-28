@@ -17,12 +17,15 @@ The *__Movie__ app* has the following functionalities :
 
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/77974149/175801293-783020fe-f304-4943-a55b-a2e8f8c21bff.png)
-![image](https://user-images.githubusercontent.com/77974149/175801304-e5163b31-faf6-470f-bbbd-fa333adda672.png)
-![image](https://user-images.githubusercontent.com/77974149/175801311-8831f45a-74d5-46a4-a413-2d782078708e.png)
-![image](https://user-images.githubusercontent.com/77974149/175801319-35ceed4e-4e19-4897-9d62-accb91a0c079.png)
+![image](https://user-images.githubusercontent.com/77974149/176156470-2e399925-88eb-4765-8b17-d9f987611ee5.png)
 
+![image](https://user-images.githubusercontent.com/77974149/176156552-0422ce0d-3485-446d-bb1d-bcff90d77a29.png)
 
+![image](https://user-images.githubusercontent.com/77974149/176156643-1b5c2d6d-4e11-4819-80fe-0e6b0c506cb2.png)
+
+![image](https://user-images.githubusercontent.com/77974149/176156699-735ee78a-e098-4665-bc7e-75f13e7239f1.png)
+
+![image](https://user-images.githubusercontent.com/77974149/176156863-d93f50a8-3c34-472e-bf5b-51eb8570f80b.png)
 
 ## Tech Stack
 
