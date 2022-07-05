@@ -1,4 +1,3 @@
-import './App.css';
 import { useEffect, useState } from 'react';
 import MovieList from './components/MovieList';
 import Navbar from './components/Navbar';
@@ -12,20 +11,16 @@ const App = () => {
   const [page, setPage] = useState(1);
   const [search, setSearch] = useState('');
   const [searchResult, setSearchResult] = useState('');
-  const [info, setInfo]=useState({});
+  const [info, setInfo] = useState({});
 
   useEffect(() => {
-    let url = `https://api.themoviedb.org/3/movie/popular?api_key=${process.env.REACT_APP_API_KEY}&language=en-US&page=${page}`;
     const fetchData = async () => {
+      const url = `https://api.themoviedb.org/3/movie/popular?api_key=${process.env.REACT_APP_API_KEY}&language=en-US&page=${page}`;
       const res = await fetch(url);
-      return res.json();
+      const data = await res.json();
+      updateMovieList(data.results);
     }
-
-    fetchData()
-      .then((data) => {
-        updateMovieList(data.results);
-      });
-    
+    fetchData();
   }, [page]);
 
   return (
