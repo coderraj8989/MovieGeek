@@ -1,8 +1,8 @@
-import { useEffect, useState } from 'react';
 import MovieList from './components/MovieList';
 import Navbar from './components/Navbar';
 import Details from './components/Details';
 import Footer from './components/Footer';
+import { useEffect, useState } from 'react';
 import { Routes, Route } from 'react-router-dom';
 
 const App = () => {
