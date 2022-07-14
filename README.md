@@ -29,7 +29,7 @@ The *__Movie__ app* has the following functionalities :
 
 ## Tech Stack
 
-**Client:** React, TailwindCSS
+**Client:** React.js, TailwindCSS
   
 ## Run Locally
 
