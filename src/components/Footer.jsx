@@ -11,7 +11,7 @@ const Footer = () => {
                     src="https://cdn-icons-png.flaticon.com/512/2798/2798007.png"
                     alt="logo" />
                 <div className="flex flex-col ml-4">
-                    <p>Made with 💙 by RitikRajOfficial!</p>
+                    <p>Made with 💙 by RitikRaj!</p>
                     <p>Copyright&copy;2022-2023. All rights reserved.</p>
                 </div>
             </div>
