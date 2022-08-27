@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 const Details = ({ info }) => {
     return (
-        <div className="p-5 flex flex-col md:flex-row text-white bg-gradient-to-r from-black to-gray-500">
+        <div className="p-5 flex flex-col md:flex-row">
             <img src={info.img} alt="poster" className="w-max h-max md:w-[20em] md:h-[30em] rounded-2xl" />
             <div className="flex flex-col justify-start m-1">
                 <h1 className="font-sans font-normal text-2xl md:text-5xl p-1">{info.title}</h1>
